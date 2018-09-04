@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+WillJonesViewTool::Renderer.copyright 'Will Jones', 'All rights reserved'
+```
 
 ## Development
 
